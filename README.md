@@ -1,5 +1,5 @@
 # Humanoid-controller-using-pose-estimation
-* Details of the project are given in the [report](https://github.com/NiranthS/Humanoid-controller-using-pose-estimation/blob/master/Humanoid%20control%20using%20human%20pose%20detection.pdf)
+* Details of the project are given in this [Humanoid control using human pose detection.pdf](https://github.com/NiranthS/Humanoid-controller-using-pose-estimation/blob/master/Humanoid%20control%20using%20human%20pose%20detection.pdf)
 ## Requirements:
 * Python 3.6 or higher
 * PyBullet
